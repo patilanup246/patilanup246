@@ -18,7 +18,6 @@
 <a href="https://www.kaggle.com/patilanup246">
   <img align="left" alt="Anup Patil | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=patilanup246)
 
 <br />
 
