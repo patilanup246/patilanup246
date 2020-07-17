@@ -32,7 +32,7 @@ Hi, I'm Anup Patil, a Web Scraper with python 🚀 from India, currently, I'm a 
 - 👯 I’m looking to collaborate on create a Google reCaptcha by python code [Google reCAPTCHA v3](https://www.google.com/recaptcha) 🤝;
 - 🤔 I’m looking for help with Data Structures and Google reCaptcha bypass 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have scrap more than 500+ website includng Fae=cebook,Instagram,Github,Amazon etc
+- ⚡️ Fun-Fact: I have scrap more than 500+ website includng Facebook,Instagram,Github,Amazon etc
 - 📫 How to reach me: patilanup246@gmail.com;
 - 📝[Resume](http://datascrapy.com)
 
