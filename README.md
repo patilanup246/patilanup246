@@ -1,29 +1,7 @@
 
 
-### Hey 👋🏽, I'm [Anup!](http://datascrapy.com) 
-
-<br/>
-<a href="https://twitter.com/datascrapy">
-  <img align="left" alt="Anup Patil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/prashant246">
-  <img align="left" alt="Anup Patil | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/datascrapy/">
-  <img align="left" alt="Anup Patil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://stackoverflow.com/users/7130247/anup-patil">
-  <img align="left" alt="Anup Patil | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
-</a>
-<a href="https://www.kaggle.com/patilanup246">
-  <img align="left" alt="Anup Patil | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-
-<br />
-<br />
-<br />
-
-Hi, I'm Anup Patil, a Web Scraper with python 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@datascrapy](https://github.com/datascrapy), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/). Beside's programming, I enjoy watching Animation Movies and traveling.
+### Hey 👋🏽, I'm [Anup!]
+Hi, I'm Anup Patil, a Web Scraper with python 🚀 from India
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -36,7 +14,6 @@ Hi, I'm Anup Patil, a Web Scraper with python 🚀 from India, currently, I'm a 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have scrap more than 500+ website includng Facebook,Instagram,Github,Amazon etc
 - 📫 How to reach me: patilanup246@gmail.com;
-- 📝[Resume](http://datascrapy.com)
 
 **Languages and Tools:**  
 
